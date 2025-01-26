@@ -101,7 +101,7 @@ This project is licensed under the MIT License.
 
 For any inquiries or issues, feel free to reach out via:
 
-- GitHub Issues: [Create an Issue](https://github.com/yourusername/flutter-cozy-green/issues)
+- GitHub Issues: [Create an Issue](https://github.com/Orcos-nom/flutter-cozy-green/issues)
 
 
 
